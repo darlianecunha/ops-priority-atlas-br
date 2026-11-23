@@ -1,0 +1,12 @@
+{
+ "escalas_carga_lc_cab": 43964,
+ "base_offshore_excluida": 9862,
+ "duplicados_removidos": 41,
+ "sem_imo_sem_dwt": 2576,
+ "tempo_invalido": 636,
+ "sem_segmento": 251,
+ "dwt_nao_imputavel": 417,
+ "escalas_usadas": 30181,
+ "dwt_imputado": 642,
+ "segmento_imputado": 869
+}
